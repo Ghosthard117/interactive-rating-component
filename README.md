@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com)
-- Live Site URL: [Here](https://your-live-site-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/interactive-rating-component-EzEAmS6dHF)
+- Live Site URL: [Here](https://ghosthard117.github.io/interactive-rating-component/)
 
 ### Built with
 
